@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,15 +22,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: abhishekkp00
-          # tell snk to write files into dist/ (action will create them)
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
       - name: Publish output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # push the contents of dist/ to branch named "output"
           target_branch: output
           build_dir: dist
         env:
