@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">A passionate Data Science Student from Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkp00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkp00" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [ProjectSync](https://github.com/abhishekkp00/MINI-PROJECT.git)
 
-- 🌱 I’m currently learning **Machine Learning, DSA(Java),Agentic Ai**
+- 🌱 I’m currently learning **Machine Learning, DSA(Java), Agentic Ai**
 
 - 📫 How to reach me **abhishekforcollege@gmail.com**
 
