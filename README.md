@@ -1,35 +1,87 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Hi%20there,%20I'm%20Abhishek%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6DD5FA&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+Bengaluru;Building+%40AbhiIterates+%F0%9F%9A%80;Backend+%2B+ML+%2B+Networking;Always+learning%2C+always+shipping." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhishekkp00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abhishekkp00?label=Followers&style=for-the-badge&color=0e75b6"/>
+
 </div>
 
+<br/>
 
+## 👨‍💻 About Me
 
-<h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
-<h3 align="center">A passionate Data Science Student from Bengaluru</h3>
+```yaml
+name: Abhishek Prajapati
+role: Data Science Undergrad @ Acharya Institute of Technology, Bengaluru
+working_on: Java Springboot
+learning: [Machine Learning, DSA]
+building: AbhiIterates — a dev community for backend & placement mentoring
+fun_fact: "kinda interested in everything 🤷"
+reach_me: abhishekforcollege@gmail.com
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkp00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkp00" /> </p>
+🔭 Currently building **[ProjectSync](https://github.com/abhishekkp00/MINI-PROJECT.git)**
+🌱 Currently leveling up in **Machine Learning · DSA (Java) · Agentic AI**
+🎓 Mentoring devs through **AbhiIterates**
+⚡ Fun fact: kinda interested in everything
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkp00" alt="abhishekkp00" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [ProjectSync](https://github.com/abhishekkp00/MINI-PROJECT.git)
+## 🌐 Connect With Me
 
-- 🌱 I’m currently learning **Machine Learning, DSA(Java), Agentic Ai**
+<div align="center">
 
-- 📫 How to reach me **abhishekforcollege@gmail.com**
+<a href="https://linkedin.com/in/abhishekkp00" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:abhishekforcollege@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/abhishekkp00" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- ⚡ Fun fact **Ummm...kinda interested in everything.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishekkp00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekkp00" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkp00&show_icons=true&locale=en&layout=compact" alt="abhishekkp00" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkp00&show_icons=true&locale=en" alt="abhishekkp00" /></p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nextjs,nodejs,express,flask,docker,git,linux,mysql,mongodb,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekkp00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkp00&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkp00&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekkp00&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Streak
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekkp00/abhishekkp00/output/pacman-contribution-graph-dark.svg">
@@ -37,4 +89,8 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abhishekkp00/abhishekkp00/output/pacman-contribution-graph.svg">
 </picture>
 
+</div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0E75B6&height=100&section=footer"/>
