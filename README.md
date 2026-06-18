@@ -18,8 +18,8 @@
 ```yaml
 name: Abhishek Prajapati
 role: Data Science Undergrad @ Acharya Institute of Technology, Bengaluru
-working_on: Java Springboot
-learning: [Machine Learning, DSA]
+working_on: ProjectSync
+learning: [Machine Learning, DSA (Java), Agentic AI]
 building: AbhiIterates — a dev community for backend & placement mentoring
 fun_fact: "kinda interested in everything 🤷"
 reach_me: abhishekforcollege@gmail.com
