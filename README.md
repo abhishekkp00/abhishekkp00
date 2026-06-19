@@ -16,18 +16,18 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Abhishek Prajapati
+name: Abhishek Kr Prajapati
 role: Data Science Undergrad @ Acharya Institute of Technology, Bengaluru
-working_on: ProjectSync
-learning: [Machine Learning, DSA (Java), Agentic AI]
+working_on: AbhiIterates-OS
+learning: [Full- Stack Development and Data Science]
 building: AbhiIterates — a dev community for backend & placement mentoring
 fun_fact: "kinda interested in everything 🤷"
 reach_me: abhishekforcollege@gmail.com
 ```
 
-🔭 Currently building **[ProjectSync](https://github.com/abhishekkp00/MINI-PROJECT.git)**
-🌱 Currently leveling up in **Machine Learning · DSA (Java) · Agentic AI**
-🎓 Mentoring devs through **AbhiIterates**
+🔭 Currently building **[Abhi.Iterates-OS](https://github.com/abhishekkp00/Abhi.iterates-OS.git)**
+🌱 Currently leveling up in **Machine Learning · Java Development · Problem Solving**
+🎓 Mentoring devs through **Abhi.iterates**
 ⚡ Fun fact: kinda interested in everything
 
 <br/>
