@@ -1,10 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kr%20Prajapati&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Backend%20%7C%20Data%20Science%20%7C%20Community%20Builder&descAlignY=52&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6DD5FA&center=true&vCenter=true&width=900&height=60&lines=%24+whoami" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=6DD5FA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Science+Engineer+%40+Acharya+Institute%2C+Bengaluru;Founder+%40AbhiIterates+%E2%80%94+Backend+%26+Placement+Mentoring;Java+%C2%B7+Spring+Boot+%C2%B7+Systems+Design+%C2%B7+ML;Currently+shipping+Abhi.Iterates-OS+%F0%9F%9A%80" />
+<table>
+<tr>
+<td>
+
+```bash
+> const developer = {
+    name: "Abhishek Kr Prajapati",
+    role: "Data Science Engineer",
+    college: "Acharya Institute of Technology, Bengaluru",
+    building: "AbhiIterates — backend & placement mentoring",
+    currentProject: "Abhi.Iterates-OS 🚀",
+    stack: ["Java", "Spring Boot", "Python", "ML"],
+    status: "open_to_intern_opportunities",
+    funFact: "kinda interested in everything 🤷"
+  }
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Founder+%40AbhiIterates+%7C+Backend+%2B+Placement+Mentoring;Building+in+public+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+ML;Always+learning%2C+always+shipping." />
 
 <br/><br/>
 
@@ -25,7 +48,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=abhishekkp00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/abhishekkp00?label=Followers&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repo%20Stars&style=for-the-badge&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhishekkp00%2Frepos&logo=github"/>
 <img src="https://img.shields.io/badge/Status-Placement%20Prep%20Mode-6DD5FA?style=for-the-badge"/>
 
 </div>
