@@ -1,40 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=200&section=header&text=Hi%20there,%20I'm%20Abhishek%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6DD5FA&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+Bengaluru;Building+%40AbhiIterates+%F0%9F%9A%80;Backend+%2B+ML+%2B+Networking;Always+learning%2C+always+shipping." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Kr%20Prajapati&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Backend%20%7C%20Data%20Science%20%7C%20Community%20Builder&descAlignY=52&descSize=18"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhishekkp00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/abhishekkp00?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=6DD5FA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Science+Engineer+%40+Acharya+Institute%2C+Bengaluru;Founder+%40AbhiIterates+%E2%80%94+Backend+%26+Placement+Mentoring;Java+%C2%B7+Spring+Boot+%C2%B7+Systems+Design+%C2%B7+ML;Currently+shipping+Abhi.Iterates-OS+%F0%9F%9A%80" />
 
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-```yaml
-name: Abhishek Kr Prajapati
-role: Data Science Undergrad @ Acharya Institute of Technology, Bengaluru
-working_on: AbhiIterates-OS
-learning: [Full- Stack Development and Data Science]
-building: AbhiIterates — a dev community for backend & placement mentoring
-fun_fact: "kinda interested in everything 🤷"
-reach_me: abhishekforcollege@gmail.com
-```
-
-🔭 Currently building **[Abhi.Iterates-OS](https://github.com/abhishekkp00/Abhi.iterates-OS.git)**
-🌱 Currently leveling up in **Machine Learning · Java Development · Problem Solving**
-🎓 Mentoring devs through **Abhi.iterates**
-⚡ Fun fact: kinda interested in everything
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
+<br/><br/>
 
 <a href="https://linkedin.com/in/abhishekkp00" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -45,10 +17,18 @@ reach_me: abhishekforcollege@gmail.com
 <a href="https://github.com/abhishekkp00" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://instagram.com/abhiiterates" target="_blank">
+  <img src="https://img.shields.io/badge/AbhiIterates-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhishekkp00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abhishekkp00?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repo%20Stars&style=for-the-badge&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhishekkp00%2Frepos&logo=github"/>
+<img src="https://img.shields.io/badge/Status-Placement%20Prep%20Mode-6DD5FA?style=for-the-badge"/>
 
 </div>
-
-<br/>
 
 ## 🛠️ Languages & Tools
 
