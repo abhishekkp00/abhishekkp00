@@ -16,7 +16,7 @@
 ║  🎮 PLAYER_ONE                                    ║
 ║  ────────────────────────────────────────────    ║
 ║  NAME     : Abhishek Kr Prajapati                 ║
-║  CLASS    : Data Science Engineer                 ║
+║  CLASS    : Software Development and AI engineering║
 ║  GUILD    : AbhiIterates                          ║
 ║  LEVEL    : 4th Year (Bengaluru Server)            ║
 ║  QUEST    : ⚔️  Land an SDE Internship             ║
@@ -47,7 +47,7 @@
 <a href="https://linkedin.com/in/abhishekkp00"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhishekforcollege@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/abhishekkp00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/abhiiterates"><img src="https://img.shields.io/badge/AbhiIterates-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/abhi.iterates"><img src="https://img.shields.io/badge/AbhiIterates-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
