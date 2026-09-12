@@ -31,7 +31,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/⚡_LEVEL-3rd_Year-6DD5FA?style=for-the-badge&labelColor=0E75B6)
+![](https://img.shields.io/badge/⚡_LEVEL-4th_Year-6DD5FA?style=for-the-badge&labelColor=0E75B6)
 ![](https://img.shields.io/badge/🎯_QUEST-Placement_Prep-success?style=for-the-badge&labelColor=0E75B6)
 ![](https://img.shields.io/badge/🛡️_GUILD-AbhiIterates-E4405F?style=for-the-badge&labelColor=0E75B6)
 ![](https://img.shields.io/badge/🔥_STREAK-Shipping_Daily-6DD5FA?style=for-the-badge&labelColor=0E75B6)
@@ -40,7 +40,7 @@
 
 ### ⚔️ EQUIPPED SKILLS
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,mongodb,react,nextjs,nodejs,git,linux,docker,figma&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=java,spring,springboot,python,cpp,mysql,mongodb,git,linux,docker,figma&theme=dark&perline=13"/>
 
 <br/><br/>
 
