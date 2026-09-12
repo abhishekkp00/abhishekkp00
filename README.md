@@ -40,7 +40,7 @@
 
 ### ⚔️ EQUIPPED SKILLS
 
-<img src="https://skillicons.dev/icons?i=java,spring,springboot,python,cpp,mysql,mongodb,git,linux,docker,figma&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=java,spring,springboot,springai,python,mysql,postgresql,cicd,aws,mongodb,git,linux,docker,figma&theme=dark&perline=13"/>
 
 <br/><br/>
 
