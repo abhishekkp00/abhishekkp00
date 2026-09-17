@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0E75B6,50:6DD5FA,100:0E75B6&height=250&section=header&text=ABHISHEK%20KR%20PRAJAPATI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20Founder%20%40AbhiIterates&descAlignY=58&descSize=17&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0E75B6,50:6DD5FA,100:0E75B6&height=250&section=header&text=ABHISHEK%20KR%20PRAJAPATI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20Building%20%40AbhiIterates&descAlignY=58&descSize=17&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=600&color=6DD5FA&center=true&vCenter=true&width=1000&height=60&lines=%3E+system.boot()+%E2%9C%93;%3E+loading_modules%3A+%5BJava%2C+SpringBoot%2C+Python%2C+ML%5D+%E2%9C%93;%3E+mission%3A+crack_SDE_internship()+%F0%9F%9A%80;%3E+building%3A+AbhiIterates+%7C+status%3A+ONLINE" />
 
